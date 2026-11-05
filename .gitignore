@@ -1,0 +1,8 @@
+# Build output
+dist/
+
+# Python cache
+__pycache__/
+
+# Local copy of the Figma project linked in the README
+figma/
